@@ -17,3 +17,18 @@ body {
 h1 {
     font-size: 80px;
 }
+
+.underh1 {
+    font-size: 20px;
+    position: relative;
+    bottom: 40px;
+}
+
+.sub {
+    background-color: orange;
+    color: white;
+    height: 30px;
+    width: 90px;
+    position: relative;
+    
+}
