@@ -1,3 +1,9 @@
 body {
-    background-color: rgb(179, 210, 223);
+    background-color: rgb(181, 208, 219);
 }
+
+.navbar {
+    display: flex;
+    justify-content: space-around;
+}
+
