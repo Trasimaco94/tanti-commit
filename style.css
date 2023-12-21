@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(181, 208, 219);
+    background-color: rgb(195, 218, 226);
 }
 
 .navbar {
@@ -7,3 +7,13 @@ body {
     justify-content: space-around;
 }
 
+.textbox {
+    position: relative;
+    top: 50px;
+    left: 30%;
+    width: 500px;
+}
+
+h1 {
+    font-size: 80px;
+}
