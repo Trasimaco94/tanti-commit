@@ -7,15 +7,28 @@ body {
     justify-content: space-around;
 }
 
+.btn { background: transparent;
+    color: aqua;
+    border: solid 5px aqua;
+
+}
+
 .textbox {
     position: relative;
     top: 50px;
-    left: 30%;
-    width: 500px;
+    left: 25%;
+    width: 60%;
 }
 
 h1 {
     font-size: 80px;
+   
+}
+
+.uph1 {
+    font-size: 20px;
+    position: relative;
+    top: 40px;
 }
 
 .underh1 {
